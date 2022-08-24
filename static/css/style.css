@@ -1,0 +1,24 @@
+body {
+    background-color: #161515;
+}
+
+.jumbotron {
+    /* background-image: url("C:/Users/Administrator/Desktop/Analysis_Projects/Belly_Button_Biodiversity/images/cell.jpg"); */
+    background-image: url("../images/cell.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+#bar-plot {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+#gauge-plot {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;   
+}
