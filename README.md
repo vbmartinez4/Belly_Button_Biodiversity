@@ -3,11 +3,22 @@
 ## Overview
 Our client Roza has a data sheet filled with numerous participants’ information regarding the bacteria samples collected from volunteer’s belly buttons. In return, the bacteria collected will assist in proving whether the current hypothesis of Improbably Beef if there is a bacteria that exists that can ultimately create a synthesized beef. The basis of the research is to see if this is true, then to determine the bacteria species type and how it can be manufactured later on. 
 
-## Resources
+## Tech Used:
 - HTML
 - JavaScript
 - CSS
-- Plotly 
+- Plotly.js
+
+## Dataset:
+- Belly Button information of individual participants
+
+## Objectives:
+- Create basic plots with Plotly, including bar charts, line charts, and pie charts.
+- Use D3.json() to fetch external data, such as CSV files and web APIs.
+- Parse data in JSON format.
+- Use functional programming in JavaScript to manipulate data.
+- Use event handlers in JavaScript to add interactivity to a data visualization.
+- Deploy an interactive chart to GitHub Pages.
 
 ## Purpose
 While we have all of the data collected, in order to represent the results, we must construct a visual that will assist to display the results and provide comparisons on a few different factors. By creating a website, it will allow us to provide a clearer way to visually depict and layout the story that the volunteer’s bacteria samples tell us. Apart from creating the foundation of the site, we have created three chart types that allow the user to view the data of each participant, making the site interactive to all access members. 
