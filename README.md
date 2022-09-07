@@ -1,4 +1,4 @@
-# Belly_Button_Biodiversity
+# Belly Button Biodiversity
 
 ## Overview
 Our client Roza has a data sheet filled with numerous participants’ information regarding the bacteria samples collected from volunteer’s belly buttons. In return, the bacteria collected will assist in proving whether the current hypothesis of Improbably Beef if there is a bacteria that exists that can ultimately create a synthesized beef. The basis of the research is to see if this is true, then to determine the bacteria species type and how it can be manufactured later on. 
